@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harish Kesava Rao (@harishkesavarao)
-- 👀 I’m interested in Data Engineering, Data Infrastructure and building data platforms to derive value for analytics and data science.
+- 👀 I’m interested in building solutions/products in Data Engineering, Data Infrastructure to derive value for analytics and data science.
 - 📫 harish.kesavarao@gmail.com, @harishkrao is my Twitter handle.
 
 <!---
