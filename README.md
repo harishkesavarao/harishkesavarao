@@ -1,12 +1,5 @@
 - 👋 Hi, I’m Harish (@harishkesavarao)
 - 💻 I’m a Staff Software Engineer, working mainly on Data Infrastructure.
-  - Designing, building and scaling big data pipelines to ingest large volume data via Spark and AWS, Azure.
-  - Performance tuning for high volume ingestion pipelines with SparkStreaming / AWS Kinesis, Azure Eventhubs on Databricks.
-  - Setting up tasks, dependencies via Airflow and other workflow managers.
-  - Cloud resource management, job deployment automation using Terraform. 
-  - Experience in configuring and deploying Docker containers for specialized use cases.
-  - Extensive experience in writing Data Engineering code (primarily Python and Scala), adhering to good software engineering practices.
-  - I also contribute to Open Source projects on a regular basis and most recently, I developed the first DAG Sensors for the Databricks Provider in Apache Airflow.
 -  You can read more about me in my [website](http://harishkrblog.dev).
 - 📫 Email: harish.kesavarao@gmail.com.
 
