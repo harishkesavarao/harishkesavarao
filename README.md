@@ -3,6 +3,8 @@
 -  You can read more about me in my [website](http://harishkrblog.dev).
 - 📫 Email: harish.kesavarao@gmail.com.
 
+#### A summary of my tech stack:
+
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-lightgrey?style=for-the-badge&logo=apache-spark)
 
 <!---
