@@ -3,7 +3,7 @@
 -  You can read more about me in my [website](http://harishkrblog.dev).
 - 📫 Email: harish.kesavarao@gmail.com.
 
-https://img.shields.io/badge/Apache%20Spark-lightgrey?style=for-the-badge&logo=apache-spark
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-lightgrey?style=for-the-badge&logo=apache-spark)
 
 <!---
 harishkesavarao/harishkesavarao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
