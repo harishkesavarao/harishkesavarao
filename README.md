@@ -5,9 +5,14 @@
 
 #### A summary of my tech stack:
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-lightgrey?style=for-the-badge&logo=apache-spark)
-![Databricks](https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=databricks)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-yellow?style=for-the-badge&logo=amazonaws)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apache-spark)
+![Databricks](https://img.shields.io/badge/Databricks-lightgrey?style=for-the-badge&logo=databricks)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-orange?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/Terraform-lightgrey?style=for-the-badge&logo=terraform)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Scala](https://img.shields.io/badge/scala-red?style=for-the-badge&logo=scala)
+![Snowflake](https://img.shields.io/badge/snowflake-white?style=for-the-badge&logo=snowflake)
 
 <!---
 harishkesavarao/harishkesavarao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
