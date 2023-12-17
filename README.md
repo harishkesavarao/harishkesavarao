@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harish (@harishkesavarao)
-- 💻 I’m a Staff Software Engineer, working mainly on Data Infrastructure.
+- 💻 I’m a Staff Software Engineer and Team Lead, working mainly on Data Infrastructure.
 -  You can read more about me in my [website](http://harishkrblog.dev).
 - 📫 Email: harish.kesavarao@gmail.com.
 
