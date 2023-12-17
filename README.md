@@ -13,6 +13,8 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Scala](https://img.shields.io/badge/scala-red?style=for-the-badge&logo=scala)
 ![Snowflake](https://img.shields.io/badge/snowflake-white?style=for-the-badge&logo=snowflake)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-brown?style=for-the-badge&logo=apacheairflow)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 
 <!---
 harishkesavarao/harishkesavarao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
