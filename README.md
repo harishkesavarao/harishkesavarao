@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harish (@harishkesavarao)
-- 💻 I’m a Staff Software Engineer and Team Lead at Databricks, working on Data Infrastructure for Security.
--  You can read more about me in my [website](http://harishkrblog.dev).
+- 💻 I’m a Principal Data Engineer at Atlassian
+-  You can read more about me in my [website](https://harishkesavarao.github.io/)
 - 📫 Email: harish.kesavarao@gmail.com.
 
 #### A summary of my tech stack:
