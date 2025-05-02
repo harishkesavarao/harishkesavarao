@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harish (@harishkesavarao)
-- 💻 I’m a Principal Data Engineer at Atlassian
+- 💻 I am a Data Engineering & Cloud Data Infrastructure professional
 -  You can read more about me in my [website](https://harishkesavarao.github.io/)
-- 📫 Email: harish.kesavarao@gmail.com.
+- 📫 Email: harish.kesavarao@gmail.com
 
 #### A summary of my tech stack:
 
