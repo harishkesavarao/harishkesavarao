@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harish (@harishkesavarao)
 - 💻 I am a Data Engineering & Cloud Data Infrastructure professional
--  You can read more about me in my [website](https://harishkesavarao.github.io/)
+-  You can read more about me in my [website](https://harishkesavarao.github.io/). I also write [posts](https://harish.bearblog.dev/blog/) on Data, also available in [Substack](https://harishkesavarao.substack.com/)
 - 📫 Email: harish.kesavarao@gmail.com
 
 #### A summary of my tech stack:
